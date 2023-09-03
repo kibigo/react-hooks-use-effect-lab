@@ -19,6 +19,8 @@ function App() {
     }
   }
 
+
+
   return (
     <main>
       <section>
@@ -33,6 +35,7 @@ function App() {
             <h2>Total Correct: {score}</h2>
           </>
         )}
+        
       </section>
     </main>
   );
